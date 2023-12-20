@@ -1,6 +1,10 @@
+import dynamic from 'next/dynamic';
 import Image from 'next/image'
 
-import CompoundInterestCalculator from '@/components/CompoundInterestCalculator'
+const CompoundInterestCalculator = dynamic(
+  () => import('@/components/CompoundInterestCalculator'),
+  { ssr: false }
+);
 
 export default function Home() {
   return (
