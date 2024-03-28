@@ -11,4 +11,4 @@ Various Investment Scenarios: Compare different investment scenarios with varyin
 User-Friendly Interface: Easy-to-use interface for inputting data and viewing results.
 Graphical Representation: Visualize your investment growth with graphs and charts.
 
-site is hosted on https://natedog369.github.io/investment-calculator/index.html
+site is hosted on https://natesiwel.github.io/investment-calculator/index.html
