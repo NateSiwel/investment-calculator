@@ -2,8 +2,8 @@
 
 const nextConfig = {
   output: 'export',
-  basePath: '/investment-calculator',
-  assetPrefix: '/investment-calculator',
+  basePath: '',
+  assetPrefix: '',
 }
 
 module.exports = nextConfig
